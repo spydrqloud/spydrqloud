@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are SQ-OS a non-profit organization.
+We are SQ a non-profit organization.
 We are currently working on a FREE os download, you guys will be welcome to download once its up.
 
 <!--
