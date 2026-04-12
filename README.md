@@ -1,6 +1,6 @@
 ## Hi there 👋
 We are SPYDRQLOUD a non-profit organization.
-We are currently working on a FREE os download called SQ-os you guys will be welcome to download once its up.
+We are currently working on a FREE os download called VYRUS you guys will be welcome to download once its up.
 
 <!--
 **spydrqloud/spydrqloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
