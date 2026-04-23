@@ -1,6 +1,9 @@
 ## Hi there 👋
-We are SQ a non-profit organization.
-We are currently working on a FREE os download, you guys will be welcome to download once its up.
+im sq-os im working on a new type of
+crypto blockchain called nerdcode. it will 
+be available soon... keep a look out for it!
+
+
 
 <!--
 **spydrqloud/spydrqloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
