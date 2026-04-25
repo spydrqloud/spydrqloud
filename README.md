@@ -1,7 +1,5 @@
 ## Hi there 👋
-im sq-os im working on a new type of
-crypto blockchain called nerdcode. it will 
-be available soon... keep a look out for it!
+
 
 
 
